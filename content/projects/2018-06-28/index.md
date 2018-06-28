@@ -8,4 +8,4 @@ areas:
 ---
 
 ![](./facade.jpg)
-![](./seine.jpg)
+![](./seines.jpg)
