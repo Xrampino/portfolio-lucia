@@ -60,7 +60,7 @@
   },
   "scripts": {
     "dev": "yarn gatsby develop -o",
-    "build": "yarn gatsby build"
+    "prod": "yarn gatsby build"
   },
   "browserslist": [
     "> 1%",
