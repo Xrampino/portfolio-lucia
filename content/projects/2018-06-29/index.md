@@ -1,5 +1,5 @@
 ---
-cover: "./pompei.jpg"
+cover: "pompei.jpg"
 date: "2018-06-29"
 title: "Construction"
 areas:
@@ -7,6 +7,6 @@ areas:
     - Art
 ---
 
-![](./fleurs.jpg)
-![](./mur.jpg)
-![](./trevise.jpg)
+![](fleurs.jpg)
+![](mur.jpg)
+![](trevise.jpg)

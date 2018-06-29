@@ -59,8 +59,8 @@
     "url": "git+https://github.com/LeKoArts/gatsby-starter-portfolio-emilia.git"
   },
   "scripts": {
-    "dev": "gatsby develop -o",
-    "build": "gatsby build"
+    "dev": "yarn gatsby develop -o",
+    "build": "yarn gatsby build"
   },
   "browserslist": [
     "> 1%",
