@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-7c169702a7ffee9ddb40.js",
+      "component---src-pages-index-js-7c169702a7ffee9ddb40.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-project-js": [
+      "component---src-templates-project-js-eb2f902859cb8a05d3a7.js",
+      "component---src-templates-project-js-eb2f902859cb8a05d3a7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ac96f60dd4d2b16e758e.js",
+      "component---src-layouts-index-js-ac96f60dd4d2b16e758e.js.map"
+    ],
+    "path---architecture": [
+      "path---architecture-9fd8845c3a610bae05cf.js",
+      "path---architecture-9fd8845c3a610bae05cf.js.map"
+    ],
+    "path---index": [
+      "path---index-51f18f2fb0c98f2ac194.js",
+      "path---index-51f18f2fb0c98f2ac194.js.map"
+    ],
+    "path---construction": [
+      "path---construction-45108ffaad5b546538f9.js",
+      "path---construction-45108ffaad5b546538f9.js.map"
+    ],
+    "commons": [
+      "commons-f4440505f67bf5a50d26.js",
+      "commons-f4440505f67bf5a50d26.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-819f976c579ce22498d6.js",
+      "app-819f976c579ce22498d6.js.map"
+    ],
+    "path---amour": [
+      "path---amour-4bafc87e9c686b879608.js",
+      "path---amour-4bafc87e9c686b879608.js.map"
+    ],
+    "path---eau": [
+      "path---eau-b4876920ba4fb7b45f7d.js",
+      "path---eau-b4876920ba4fb7b45f7d.js.map"
+    ]
+  }
+}
